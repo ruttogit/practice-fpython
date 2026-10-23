@@ -20,11 +20,14 @@
 # else:
 #     print("we have even numbers")
 
-number = input(f"Enter a number: ")
-for number in range (1, int(number) + 1):
-    if number % 2:
-        print(f"{number} is odd")
-    else:
-        print(f"{number} is even")
+# number = input(f"Enter a number: ")
+# for number in range (1, int(number) + 1):
+#     if number % 2:
+#         print(f"{number} is odd")
+#     else:
+#         print(f"{number} is even")
+
+
+
 
 
